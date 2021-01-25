@@ -1,0 +1,19 @@
+[
+    {
+        "_id": "admin",
+        "name": "Xian Malik",
+        "password": "1234",
+        "Avatar": "https://www.nicepng.com/png/detail/186-1866063_dicks-out-for-harambe-sample-avatar.png",
+        "nid": "1234567890",
+        "type": "buyer",
+        "address": {
+            "addressline": "290Jhilpar",
+            "city": "Dhaka",
+            "country": "Bangladesh",
+            "lat": 23.789132,
+            "long": 90.367989
+        },
+        "phone": "01624923060",
+        "email": "xian@outlook.com"
+    }
+]

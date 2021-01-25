@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Best rice Dhaka",
+      "price": 123,
+      "desc": "This product is really good",
+      "meta": "IN STOCK",
+      "image": "http://pakrice.pk/wp-content/uploads/2015/12/IMG-20151231-WA0000.jpg",
+      "location": {
+        "lat": 23.789132,
+        "long": 90.367989
+      },
+      "rating": 4,
+      "reviewId": "review101",
+      "sellerId": "seller101"
+    },
+    {
+      "name": "Best rice Chittagong",
+      "price": 321,
+      "desc": "This product is really good",
+      "meta": "IN STOCK",
+      "image": "http://pakrice.pk/wp-content/uploads/2015/12/IMG-20151231-WA0000.jpg",
+      "location": {
+        "lat": 23.789132,
+        "long": 90.367989
+      },
+      "rating": 4,
+      "reviewId": "review101",
+      "sellerId": "seller101"
+    },
+    {
+      "name": "Best rice Comilla",
+      "price": 654,
+      "desc": "This product is really good",
+      "meta": "IN STOCK",
+      "image": "http://pakrice.pk/wp-content/uploads/2015/12/IMG-20151231-WA0000.jpg",
+      "location": {
+        "lat": 23.789132,
+        "long": 90.367989
+      },
+      "rating": 4,
+      "reviewId": "review101",
+      "sellerId": "seller101"
+    }
+]
